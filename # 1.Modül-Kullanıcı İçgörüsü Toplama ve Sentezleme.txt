@@ -1,0 +1,65 @@
+# 1.Modül-Kullanıcı İçgörüsü Toplama ve Sentezleme
+
+Herşey varsayım her şey tasarım.
+
+- Kullanıcı İçgörüsü Toplama ve Sentezleme
+    - İçgörü nedir?
+        - Bulgulardan oluşan dış görülerin yorumlanmasıdır.
+        - İnsan davranışının ve motivasyonunun belirlenmesi ve askiyon alınabilir bir çıkarıma ulaşmaktır.
+        
+        - İçgörüde iki katorigi vardır
+            - Persona
+            - Teknolojiye uyum
+        
+        - Kullanıcı görüşmelerinde ne tarz sorular sorulmalıdır?
+            - Kırmızı bir araba mı seçtin?
+            - Ne renk bir araba seçtin?
+            - Arabanın rengini nasıl seçtin?
+            - Soru 1 ve 2 de bilgi almaya çalışılıyor ve yorum yokken 3. soruda motivasyonunu anlamaya çalışıyorsun.
+            - Soru 1 ve 2 kapalı uçlu soruyken Soru 3 açık uçlu bir sorudur.
+            - Çok açık uçlu sorular karşı tarafı endişelendirebilir.
+        
+        - 5N1Knın en kritik noktaları
+            - Nasıl sorusunu sor.
+            - Neden diye sor
+            - Neden diye sormaya devam et
+            - 3, 4 ve 5inçi sorularda neden neden neden diye sor
+        
+        - Yapılan sentezlemeyi içgörüye çevirme
+            - Eyleme dönüştürelibilir içgörüler yapmak amaç.
+            - Kümeleme ve ilişkilendirme hedefler var.
+                - Vaka: Ulaşım
+                - Değişik kişlilerin değişik kosulları
+                    - Hız: Çabuk gitmesi
+                    - Konfor: Rahat gitmesi
+                    - Erişilebilirlik: Aracı Kimin Kullanıcağı
+                - Bu kararlar bir çok şeyi değiştirebilir. Hız istiyorsa konfor olmayabilir ve elektrikli skoter kullanabilir.
+        
+        - Haritalandırın!!! Post-itlere yazın, içgörülerinizi çizin,hikayeler anlatın ve eserleri paylaşın
+            - Topladığını bulguları postitler yardımı ile birbiriyle ilişkili olanları gruplayın ve bu grupları temalarına göre isimlendirin.
+            - Konfor bir küme ise konforda neyin eksik olduğunu, Yürürken konfor nedir scoterda konfor nedir. bunları arayarak kullanıcının acı noktalarını görmek lazım.
+            - Yürümek, ulaşım problemini çözmeye çalışırken akla gelmeyebilir
+                - Burada zaman kısıtı olan kullanıcılar ve zaman kısıtı olmayan kullanıcıları ayırmak ve ihtiyaçlarını anlamak gerekir.
+            - Empati haritası
+                - Kişi ne söylüyor
+                - Ne düşünüyor
+                - Ne hissediyor
+                - Ne yapıyor
+            - PErsonalar kurgusal karakterlerdir.
+                - Personalar, gerçek insanlara karşı düşmese de, çözümün ana hedef kitlesini tanımlayacak.
+            
+            - Ana hedef kitleyi tanımlamak çok kritiktir. persona bır uygulamanın temel taşlarından biridir. Çözmeye çalıştığınız problem sadece bir kişinin problemi olmayabiliri. Personalara bri isim verilebilir. Ahmet,Mehmet vb. Mehmete odaklı bir pazarlama yapmak vb
+        - Kullanıcı Hikayelerini ekip ile paylaşın
+            - Mehmet diye bir personanınz varsa çeşitli hikayelerden beslenerek personası zenginleşebilir. Hangi tewlefonu kullandığı nerde yaşadığı davranış tipi hangi yemeği sevdiği detaylı persolnalar oluşturulabilir. Mehme  vean zaten vegan bir persona. Ona verilecek reklamlarda dikkat etmeliyiz.
+            - Personalar zamanla değişebilir.Persona dökümanalrı yaşayan dökümanlardır.
+        
+        - Kullanıcı bu kadar merkeze koymak neden bu kadar popüler?
+            - Yeni nesil çalışmalar “kimin hangi problemini cözüyorsun” yaklaşımından ortaya çıkıyor.
+            - Gelenekselde uygulama yapılır ve ondan sonra kullanıcı bulunur.
+            - Yeni nesil girişimlerde bir ihtiyacı karşılamak ve çözmektir.
+            - Tasarım odaklı düşünmek kullanıcıyı en iyi şekilde anlamak.
+                - Fikir geliştirmede tasarım odaklı düşünme yöntemleri
+                    - Tasarım ajansı IDEO’nun yöntemi “Açılmak ve Kapanma”(Diverge-Converge) methodu
+                        - Olabildiğince fazla uçuk fikirleri geliştir
+                        - Belli filtreler ve sorulardan geçirerek toplarla
+                        - Tekrar et
